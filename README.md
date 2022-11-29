@@ -1,5 +1,10 @@
+### Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/><br/><br/>
+
 <h2># WORKING WITH 433MHz TRANSMITTERS WITH RASPBERRY PI</h2>
-<h2>Инструкция на русском в конце</h2>
+<h2>Инструкция на русском ниже</h2>
 
 Modern barriers, electronic gates, and some electronic locks operate on these frequencies. By reading the values from the receiver when there is a signal from the remote control to open something, you can repeat this signal, thereby opening/closing the target.
 
